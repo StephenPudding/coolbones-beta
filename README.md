@@ -3,6 +3,7 @@
 Coolbones 的 Windows x64 公开测试版：一款支持通过 CLI 配合外部 AI 创作的 2D 骨骼动画编辑器。
 
 [下载测试版](https://github.com/StephenPudding/coolbones-beta/releases)
+[runtime](https://github.com/StephenPudding/cane-runtimes)
 
 解压 ZIP 后运行 `coolbones.exe`。压缩包同时包含 `cane.exe` 命令行工具和 `skills/` AI 技能文件。
 
